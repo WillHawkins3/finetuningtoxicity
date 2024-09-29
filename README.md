@@ -3,7 +3,9 @@ Repository for code for the paper "The unintended side-effects of parameter effi
 
 # Installation
 Install Python3 https://www.python.org/downloads/
+
 Install Git https://git-scm.com/download/win
+
 Run on terminal: pip install PyPDF2
 
 # Running
