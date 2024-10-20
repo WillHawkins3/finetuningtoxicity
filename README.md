@@ -9,6 +9,9 @@ Install Git https://git-scm.com/download/win
 Run on terminal: pip install PyPDF2
 
 # Running
-This project was created and run using Google Colab, with thanks to Hugging Face and Unsloth tutorials.
+Code for this work was created and run using Google Colab.
 
-Code can be run in file code.py
+For fine-tuning a free T4 GPU was used. For evaluation we primarily used a L4 GPU to improve speed.
+
+# Acknowledgements
+This project would not be possible without Hugging Face and Unsloth open-source resources.
